@@ -6,6 +6,24 @@
 
 Built with a modular architecture, StoneForge provides a foundation for creating and running custom Bedrock servers without relying on another server implementation as its core.
 
+<!-- StoneForge Badges -->
+
+![Minecraft Bedrock](https://img.shields.io/badge/Minecraft%20Bedrock-1.21.x-3CB371?style=for-the-badge&logo=minecraft&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES202x-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Protocol](https://img.shields.io/badge/Protocol-Multi--Version-5865F2?style=for-the-badge)
+![Plugin API](https://img.shields.io/badge/Plugin%20API-Multi--Language-7289DA?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Bedrock-5865F2?style=for-the-badge)
+![World](https://img.shields.io/badge/World-Chunk%20%2F%20Subchunk-8B5CF6?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-Open%20Source-2EA44F?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-StoneForge-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## 🚀 What is StoneForge?
